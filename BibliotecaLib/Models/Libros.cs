@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaLib.Models
 {
-    public class Libro
+    public class Libros
     {
         [Key]
 
